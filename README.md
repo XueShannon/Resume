@@ -1,2 +1,2 @@
 # Resume
-This is the Resume of Xiaochan Xue
+This is the Resume for Xiaochan Xue
